@@ -1,0 +1,17 @@
+body {
+    background-color: darkblue;
+}
+
+header {
+    text-align: center;
+    background-color: darkblue;
+}
+
+section {
+    background-color: gold;
+}
+
+.monStyle {
+    color: red;
+    background-color: darkblue;
+}
